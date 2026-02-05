@@ -76,15 +76,3 @@ Upload a PDF document.
 Chat with your document!
 
 <div align="center"> <sub>Built with ❤️ by Geo Cherian Mathew</sub> </div>
-
-
-### How to upload this:
-
-1.  Save the file.
-2.  Run:
-    ```bash
-    git add README.md
-    git commit -m "Add professional README"
-    git push
-    ```
-3.  Refresh your GitHub page. It will look beautiful\!
